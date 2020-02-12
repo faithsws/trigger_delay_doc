@@ -2,8 +2,8 @@
 
 这是一款用于配合[`触发延时控制模块`](common.md) 而使用的继电器控制模块。
 
-![relay1](image/relay1.jpg)
-![relay2](image/relay2.jpg)
+![relay1](../image/relay1.jpg)
+![relay2](../image/relay2.jpg)
 ## 尺寸 
     50mm * 70mm
 
