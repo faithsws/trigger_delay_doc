@@ -15,16 +15,28 @@
     window.$docsify = {
       name: '华畅科技产品使用说明',
       repo: '',
+      logo:"image/logo1.png",
       loadSidebar:true,
       coverpage:true,
       auto2top   : true,
 			maxLevel   : 2, 
 			subMaxLevel: 2,
+      footer: {
+      copy: '<span>HuachangTech &copy; 2019</span>',
+      auth: 'songwensheng',
+      pre: '<hr/>',
+      style: 'text-align: right;',
+        
+      },
+      search: {
+            placeholder: '点此搜索...',
+          },
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 
   <script src="https://unpkg.com/docsify/lib/plugins/search.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-c.min.js"></script>
+  <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
 </body>
 </html>
