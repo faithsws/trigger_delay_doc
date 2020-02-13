@@ -7,4 +7,6 @@
     * [边沿触发型](trigger_delay/edge.md)
     * [继电器控制板](trigger_delay/relay_ctrl.md)
 ------------------------
-*  [STM32F042核心板](stm32f042core/README.md)
+* [STM32F042核心板](stm32f042core/README.md)
+-------------------------
+* [光学雨量传感器](rain_sensor/README.md)

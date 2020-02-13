@@ -26,3 +26,7 @@
 ## STM32F042核心板
 
 * [说明](stm32f042core/README.md)
+
+## 光学雨量传感器
+
+* [说明](rain_sensor/README.md)
